@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lazzzare](https://github.com/Lazzzare)
+- 👨‍💻 All of my projects are available at [Lazzzare](https://github.com/Lazzzare)
 
 - 📫 How to reach me **chxartishvililazare@gmail.com**
 
