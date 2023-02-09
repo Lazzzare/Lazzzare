@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazzzare&label=Profile%20views&color=0e75b6&style=flat" alt="lazzzare" /> </p>
 
-- 🌱 I’m currently learning **React/React-Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lazzzare](https://github.com/Lazzzare)
 
