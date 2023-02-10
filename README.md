@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazzzare&label=Profile%20views&color=0e75b6&style=flat" alt="lazzzare" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning: **Next.js**
 
 - 👨‍💻 All of my projects are available at [Lazzzare](https://github.com/Lazzzare)
 
-- 📫 How to reach me **chxartishvililazare@gmail.com**
+- 📫 How to reach me: **chxartishvililazare@gmail.com**
 
-- ⚡ Fun fact **the sun is shining**
+- ⚡ Fun fact: **the sun is shining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
