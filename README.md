@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **chxartishvililazare@gmail.com**
 
-- ⚡ Fun fact: **"The first programmer was the daughter of a mad poet"**
+- ⚡ Fun fact: **The first programmer was the daughter of a mad poet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
