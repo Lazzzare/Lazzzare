@@ -42,6 +42,10 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lazzzare&theme=tokyonight&hide_border=false)<br/>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -50,9 +54,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazzzare&show_icons=true&locale=en" alt="lazzzare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazzzare&" alt="lazzzare" /></p> -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lazzzare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 
