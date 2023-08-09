@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)-->
-[![MasterHead](https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1)]
+[![MasterHead](https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1)]([https://rishavchanda.io](https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47vhx23yac2c4tsin9vcclutm8x3akgyvol1oab2qf&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 <h1 align="center">Hi 👋, I'm Lazare Chkhartishvili</h1>
 <h3 align="center">Front-end Developer from Georgia</h3>
