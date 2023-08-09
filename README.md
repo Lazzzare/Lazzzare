@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)-->
-[![Meme]([https://indoanalytica.com/static/images/bannerr.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNjaXJrZXJnaHh5ZTFhZGRxc2NxZGlnMTE3YzF0Zm4zcnprN3YyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif))](https://rishavchanda.io)
+[![Meme]([https://indoanalytica.com/static/images/bannerr.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNjaXJrZXJnaHh5ZTFhZGRxc2NxZGlnMTE3YzF0Zm4zcnprN3YyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif))]
 <!-- [!Meme](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNjaXJrZXJnaHh5ZTFhZGRxc2NxZGlnMTE3YzF0Zm4zcnprN3YyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif) -->
 
 <h1 align="center">Hi 👋, I'm Lazare Chkhartishvili</h1>
