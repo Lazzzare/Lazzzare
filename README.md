@@ -45,12 +45,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazzzare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazzzare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lazzzare" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- 
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazzzare&show_icons=true&locale=en&layout=compact" alt="lazzzare" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazzzare&show_icons=true&locale=en" alt="lazzzare" /></p>
 
