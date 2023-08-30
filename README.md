@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Full-stack Development**
 
-- 👨‍💻 All of my projects are available at [Lazzzare](https://github.com/Lazzzare)
+- 👨‍💻 Check out my <a href="https://github.com/lazzzare?tab=repositories"><b>repositories</b></a> for all of my projects
 
 - 📫 How to reach me: **chxartishvililazare@gmail.com**
 
