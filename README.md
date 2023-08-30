@@ -46,12 +46,14 @@
 
 # 📊 GitHub Stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazzzare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lazzzare" /></p>
-
 <p align="center">   
   <a href="https://github.com/lazzzare"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazzzare&theme=radical" alt="lazzzare's GitHub Contribution"/>     </a>
 </p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazzzare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lazzzare" /></p>
+
 
 ### ✍️ Random Dev Quote
 
