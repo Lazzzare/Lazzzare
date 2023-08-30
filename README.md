@@ -20,8 +20,8 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/lazare-chkhartishvili-0a6434235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazare chkhartishvili" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_lazzzare_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lazzzare" height="30" width="40"/></a>
-<a href="https://twitter.com/lazarechxartis1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazzzare" height="30" width="30" /></a>
+<a href="https://www.instagram.com/_lazzzare_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazzzare" height="30" width="40"/></a>
+<a href="https://twitter.com/lazarechxartis1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazzzare" height="30" width="30" /></a>
 </div>
 
 <br />
