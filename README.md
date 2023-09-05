@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lazare Chkhartishvili</h1>
 <h3 align="center">Front-end Developer from Georgia</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazzzare&label=Profile%20views&color=0e75b6&style=flat" alt="lazzzare" /> </p>
