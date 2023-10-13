@@ -30,7 +30,7 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div display="flex" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,nextjs,redux,js,ts,html,css,sass,bootstrap,tailwind,styledcomponents,materialui,figma,xd,webpack,postman,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,svelte,nextjs,redux,js,ts,html,css,sass,bootstrap,tailwind,styledcomponents,materialui,figma,xd,webpack,vite,postman,github,git,vscode)](https://skillicons.dev)
 
 <br />
 
