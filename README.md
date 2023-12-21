@@ -16,8 +16,6 @@
 
 <br />
 
-<h3 align="center">📞 Contact: </h2>
-
 
 <br />
 
