@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning: **Full-stack Development**
 
-- 👨‍💻 Check out my <a href="https://github.com/lazzzare?tab=repositories"><b>repositories</b></a> for all of my projects
-
 - 📫 How to reach me: **chxartishvililazare@gmail.com**
 
 - ⚡ Fun fact: **The first programmer was the daughter of a mad poet**
