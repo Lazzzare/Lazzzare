@@ -45,19 +45,8 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>   -->
 
 
-
+<!--
 <h3 align="center">📊 GitHub Stats:</h3>
-
-<!-- <p align="center">   
-  <a href="https://github.com/lazzzare"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazzzare&theme=radical" alt="lazzzare's GitHub Contribution"/>     </a>
-</p>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazzzare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lazzzare" /></p> -->
-
-
-
 <p align="center">
   <a href="https://github.com/lazzzare">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazzzare&theme=radical&border=7F3FBF&background=0D1117" alt="lazzzare's GitHub streak"/>
@@ -88,4 +77,29 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazzzare&" alt="lazzzare" /></p>  -->
 
 
+<div align="center"> 
+  <span align="center">
+    <a href="https://github.com/lazzzare">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazzzare&theme=github_dark" alt="GitHub Profile Details"/>
+    </a>
+  </span>
+
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lazzzare&theme=github_dark" alt="Repositories per Language"/>
+  </span>
+
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lazzzare&theme=github_dark" alt="Most Committed Language"/>
+  </span>
+
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lazzzare&theme=github_dark" alt="GitHub Stats"/>
+  </span>
+
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lazzzare&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+  </span>
+</div>
+
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
