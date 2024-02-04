@@ -21,7 +21,7 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div display="flex" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,nextjs,redux,js,ts,html,css,sass,bootstrap,tailwind,styledcomponents,materialui,figma,xd,webpack,vite,vercel,netlify,postman,github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,svelte,nextjs,redux,nodejs,express,mongodb,reactnative,js,ts,html,css,sass,bootstrap,tailwind,styledcomponents,materialui,figma,xd,webpack,vite,vercel,netlify,postman,github,git,vscode,ableton)](https://skillicons.dev)
 
 <br />
 
